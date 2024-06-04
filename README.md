@@ -15,9 +15,9 @@
  
  🌱 Estou aprendendo **JAVA, Spring, React e IA**
 
-💬 Sou uma **Front-End** em busca do **Full Stack**, mas conhecendo também **Marketing**
+💬 Sou uma **Front-End** em busca do **Full Stack**, mas focando também **Marketing**
 
-⚡ Curiosidade sobre mim: **Tenho 8 gato, carioca, flamenguista e canto em casamentos**
+⚡ Curiosidade sobre mim: **Tenho 8 gato, carioca, flamenguista e já cantei em casamentos**
 
  </div>
  
