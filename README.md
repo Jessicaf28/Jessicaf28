@@ -11,13 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 Atualmente estou trabalhando em uma **Startup de Educação**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 Estou aprendendo **JAVA, Spring, React e IA**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Sou uma **Front-End** em busca do **Full Stack**, mas conhecendo também **Marketing**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Curiosidade sobre mim: **Tenho 8 gato, carioca, flamenguista e canto em casamentos**
 
  </div>
  
