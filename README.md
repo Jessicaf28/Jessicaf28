@@ -10,14 +10,12 @@
 
 
 <div align="center">
- 
- 🔭 Atualmente estou trabalhando em uma **Startup de Educação**
- 
+
  🌱 Estou aprendendo **JAVA, Spring, React e IA**
 
 💬 Sou uma **Front-End** em busca do **Full Stack**, mas focando também **Marketing**
 
-⚡ Curiosidade sobre mim: **Tenho 8 gato, carioca, flamenguista e já cantei em casamentos**
+⚡ Curiosidades sobre mim: **Tenho 8 gatos, Carioca, Flamenguista e já cantei em casamentos**
 
  </div>
  
