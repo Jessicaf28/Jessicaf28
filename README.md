@@ -11,7 +11,6 @@
 
 <div align="center">
     
-🔭 Atualmente estou trabalhando em uma **Startup de Educação**
 
 🌱 Estou aprendendo **JAVA, Spring, React e IA**
 
