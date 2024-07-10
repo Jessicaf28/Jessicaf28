@@ -11,7 +11,6 @@
 
 <div align="center">
     
-
 🌱 Estou aprendendo **JAVA, Spring, React e IA**
 
 💬 Sou uma **Front-End** em busca do **Full Stack**, mas focando também em **Marketing**
