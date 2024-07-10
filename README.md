@@ -7,6 +7,8 @@
 <h3 align="center">👩🏻‍🏫 Uma apaixonada pedagoga se aventurando no mundo da tecnologia! 👩🏻‍💻</h3>
 <br/>
 <div align="center">   
+
+    
 🌱 Estou aprendendo **JAVA, Spring, React e IA**
 
 💬 Sou uma **Front-End** em busca do **Full Stack**, mas focando também em **Marketing**
